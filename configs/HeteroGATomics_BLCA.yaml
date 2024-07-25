@@ -1,0 +1,14 @@
+DATASET:
+  NAME: "BLCA"
+  NUM_CLASSES: 2
+  CLASS_NAMES: [ "High-grade", "Low-grade" ]
+  PATIENT_SPARSITY_RATES: 0.90
+
+GAT:
+  NUM_HEADS: 3
+  DROPOUT_RATE: 0.0
+  LR_PRETRAIN: 1e-2
+  LR: 1e-3
+
+VCDN:
+  LR: 5e-2

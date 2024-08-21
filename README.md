@@ -1,4 +1,4 @@
-# Heterogeneous graph attention network improves cancer multiomics integration
+# Heterogeneous graph attention network improves cancer multiomics integration  | [Preprint](https://arxiv.org/abs/2408.02845)
 
 <div align="left">
 
@@ -7,7 +7,7 @@
 </div>
 
 ## Introduction
-This repository provides the Python implementation of the **HeteroGATomics** architecture, as described in our paper titled "Heterogeneous graph attention network improves cancer multiomics integration". **HeteroGATomics** combines graph attention networks with heterogeneous graphs from multiomics data to enhance the performance of cancer diagnosis tasks. **HeteroGATomics** employs a two-stage process, integrating joint feature selection for dimensionality reduction with heterogeneous graph learning to derive omic-specific representations and unify predictions across various omic modalities.
+This repository provides the Python implementation of the **HeteroGATomics** architecture, as described in our paper titled "[Heterogeneous graph attention network improves cancer multiomics integration](https://arxiv.org/abs/2408.02845)". **HeteroGATomics** combines graph attention networks with heterogeneous graphs from multiomics data to enhance the performance of cancer diagnosis tasks. **HeteroGATomics** employs a two-stage process, integrating joint feature selection for dimensionality reduction with heterogeneous graph learning to derive omic-specific representations and unify predictions across various omic modalities.
 
 ## Architecture
 The following shows an overview of the HeteroGATomics method.
